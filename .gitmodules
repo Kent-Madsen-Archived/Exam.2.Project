@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = application/Backend
+	url = https://github.com/KentVejrupMadsen/EASV.Exam.2.Backend.git
+[submodule "cache"]
+	path = application/Cache
+	url = https://github.com/KentVejrupMadsen/EASV.Exam.2.Cache.git
+[submodule "frontend"]
+	path = application/Frontend
+	url = https://github.com/KentVejrupMadsen/EASV.Exam.2.Frontend.git
